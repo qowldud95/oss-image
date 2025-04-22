@@ -1,1 +1,1 @@
-![Image](https://github.com/user-attachments/assets/505abbf2-e636-4402-b0cb-8443254efbbf)
+![이미지테스트](./IMG_3096.jpeg)
